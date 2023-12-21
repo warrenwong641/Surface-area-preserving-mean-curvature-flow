@@ -1,4 +1,3 @@
-# Surface-area-preserving-mean-curvature-flow
 One-file implementation of  surface area preserving mean curvature flow
 
 # Curvature Flow
