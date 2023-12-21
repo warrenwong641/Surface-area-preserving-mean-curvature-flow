@@ -8,6 +8,7 @@ Curvature flow is a mathematical concept used in differential geometry to descri
 Surface area preserving mean curvature flow is implemented here in Python. The equation was posed by James A. McCoy in 2003. His paper can be accessed at <https://www.semanticscholar.org/paper/The-surface-area-preserving-mean-curvature-flow-McCoy/ab3f0f6d5b3c4a15cd59a0836e3391d6635da543>.
 ![alt text](governing_equation.png)
 H(t) is the curvature of a given point at time t and h(t) is defined as follows.
+![alt text](ht.png)
 
 # Process
 1. Initialize the curve with a finite number of points and calculate the length of the curve.
