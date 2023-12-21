@@ -2,7 +2,8 @@
 One-file implementation of  surface area preserving mean curvature flow
 
 # Curvature Flow
-Curvature flow is a mathematical concept used in differential geometry to describe the evolution of a curve or a surface over time. It involves the deformation of the curve or surface such that the curvature at each point is proportional to the rate of change of the curve or surface at that point. In other words, the curvature of the curve or surface is made to decrease or increase over time smoothly and continuously.
+Curvature flow is a mathematical concept used in differential geometry to describe the evolution of a curve or a surface over time. It involves the deformation of the curve or surface such that the curvature at each point is proportional to the rate of change of the curve or surface at that point. In other words, the curvature of the curve or surface is made to decrease or increase over time smoothly and continuously. A 3D example is shown as follows.
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/warrenwong641/Surface-area-preserving-mean-curvature-flow/blob/484c5006497d2597d0a397f1449c8430b7332020/Evolution_mean_curv.png))
 
 # Process
 1. Initialize the curve with a finite number of points and calculate the length of the curve.
