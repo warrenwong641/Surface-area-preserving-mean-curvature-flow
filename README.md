@@ -33,3 +33,5 @@ H(t) is the curvature of a given point at time t and h(t) is defined as follows.
 The above picture is the difference between the arc length of the curve in time t and the initial arc length, dt = 0.001, number of points = 128. Before 𝑡 = 30, the difference between the length of the curve at time t and the initial 
 curve is in the magnitude of 10−3. After the t =30, the difference increases rapidly.
 
+# Acknowledgement
+I(Wong Shing Yin) would like to acknowledge Wong Cheuk Yuen for writing this together and the help of Professor Leung Shing Yu in pointing out possible errors in the numerical methods. 
